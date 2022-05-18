@@ -1,4 +1,8 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,500;1,600;1,700;1,800&family=Passion+One&family=Roboto:wght@400;700&display=swap');
+
 * {
+    font-family: 'Passion One', cursive;
     margin: 0px;
     padding: 0px;
 }
@@ -15,18 +19,23 @@ header{
 }
 
 header h1 {
+    font-size: 4em;
     padding-top: 50px;
     font-variant: small-caps;
+    font-weight: 100;
+    transition: .5s;
 }
 
 header p {
+    font-size: 2em;
+    font-weight: 100;
     padding-bottom: 50px;
+    transition: .5s;
 }
 
 a {
-    color: white;
+    color: rgba(255, 255, 255, 0.774);
     text-decoration: none;
-    font-weight: bolder;
 }
 
 a:hover{
@@ -38,6 +47,12 @@ section{
     padding-bottom: 10vh;
     line-height: 2em;
     padding-left: 30px;
+    font-size: 2em;
+    transition: .5s;
+}
+
+section p{
+    padding-bottom: 10px;
 }
 
 .normal{
@@ -46,12 +61,27 @@ section{
 }
 
 .imagem{
-    background-color: rgba(0, 0, 0, 0.486);
-    color: white;
+    background-color: rgba(0, 0, 0, 0.603);
+    color: rgb(255, 255, 255);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    box-shadow: inset 6px 6px 13px 0px rgba(0, 0, 0, 0.452);
 }
 .imagem p{
-    width: 400px;
-    background-color: rgba(0, 0, 0, 0.295);
+    display: inline-block;
+    background-color: rgba(0, 0, 0, 0.555);
+    padding: 10px;
+    text-shadow: 1px 1px 1px black;
+}
+
+#img1{
+    background-image: url(imagens/background001.jpg);
+    background-attachment: fixed;
+    background-position: 90% top;
+}
+
+#img2{
+    background-image: url(imagens/background002.jpg);
+    background-attachment: fixed;
 }
 
 footer {
@@ -59,4 +89,26 @@ footer {
     text-align: center;
     color: white;
     padding: 10px;
+}
+
+@media (max-width: 500px) {
+
+    section{
+        font-size: 1em;
+        transition: all .5s;
+    }
+
+    header h1{
+        font-size: 2em;
+        transition: all .5s;
+    }
+
+    header p{
+        font-size: 1em;
+        transition: all .5s;
+    }
+
+    #img1, #img2{
+        background-position: 55% top;
+    }
 }
