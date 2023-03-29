@@ -1,13 +1,14 @@
 # BarberiaAlura 
 
 ## 👨‍🔬 Objetivo
+Pagina <a href="https://murilobovati.github.io/portfolio/">Acessar</a>
 Projeto com fim educativo criando uma lading page, Cordel Morderno,Milton Duarte
 
 ## 🖥 Layout Web
-![Layout Web](https://user-images.githubusercontent.com/93354240/224363383-2a8dea84-58ae-443e-90d7-cdb9715d1ee9.png)
+![screencapture-127-0-0-1-5555-index-html-2023-03-29-14_29_15](https://user-images.githubusercontent.com/93354240/228622248-be6acd04-f0ad-40c3-8c7e-a126be260a3e.png)
 
 ## 📱 Layout Mobile
-![Layout Mobile](https://user-images.githubusercontent.com/93354240/224363383-2a8dea84-58ae-443e-90d7-cdb9715d1ee9.png)
+![WhatsApp Image 2023-03-29 at 14 32 11](https://user-images.githubusercontent.com/93354240/228622530-0c210d00-190b-4782-8cfe-97bc4175a0c8.jpeg)
 
 # 🛠 Tecnologias utilizadas
 ## 👩‍💻 Front end
