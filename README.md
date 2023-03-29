@@ -1,4 +1,4 @@
-# BarberiaAlura 
+# Projeto Cordel
 
 ## 👨‍🔬 Objetivo
 Pagina <a href="https://murilobovati.github.io/projeto-cordel/" target="_blank">Acessar</a>
