@@ -1,7 +1,7 @@
 # Projeto Cordel
 
 ## 👨‍🔬 Objetivo
-Pagina <a href="https://murilobovati.github.io/projeto-cordel/" target="_blank">Acessar</a>
+<a href="https://murilobovati.github.io/projeto-cordel/" target="_blank">Acessar</a>
 Projeto com fim educativo criando uma lading page, Cordel Morderno,Milton Duarte
 
 ## 🖥 Layout Web
